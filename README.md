@@ -2,6 +2,19 @@
 
 A new Flutter project.
 
+## Screenshots
+
+
+<table>
+
+  <tr>
+    <td valign="top"><img src="screenshots/1.jpg"  width="200" height="400"></td>
+    <td valign="top"><img src="screenshots/2.jpg"  width="200" height="400"></td>
+ <td valign="top"><img src="screenshots/3.jpg"  width="200" height="400"></td>
+ </tr>
+ </table>
+ 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
